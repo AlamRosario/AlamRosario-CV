@@ -1,0 +1,35 @@
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #808080;
+  }
+  
+  /* Estilos para el encabezado */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Estilos para el contenedor principal */
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  /* Estilos para los elementos de la lista no ordenada */
+  
+  /* Estilos para los enlaces */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  /* Estilos para los enlaces al pasar el ratón */
+  a:hover {
+    text-decoration: underline;
+  }
+  
